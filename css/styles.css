@@ -35,3 +35,23 @@ body{
 .navbar-dark{
     background-color: #512DAB;;
 }
+.thead_props{
+    background-color: gold;
+    color: honeydew;
+}
+.radios{
+    padding: 0px 15px 0px 10px;
+}
+.th{
+    font-size: 24px;
+}
+.button-back{
+background-color: gold;
+}
+.tab-content{
+    border-right:1px solid #ddd;
+    border-left:1px solid #ddd;
+    border-bottom:1px solid #ddd;
+    padding:10px;
+    
+}
